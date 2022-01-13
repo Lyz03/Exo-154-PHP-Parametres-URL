@@ -10,6 +10,7 @@
  */
 
 // TODO Votre code ici.
+echo "<a href='exo1.php?iteration=10'>exo1</a>";
 
 
 /**
@@ -20,6 +21,7 @@
  * Pour chaque lien, le paramètre iteration prendra la valeur actuelle de votre variable de boucle ( $i par exemple ).
  */
 
+echo "<a href='exo2.php?iteration=10'>exo2</a>";
 
 
 
